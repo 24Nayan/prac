@@ -1,0 +1,14 @@
+a article
+an article
+the article
+boy noun
+girl noun
+apple noun
+eat verb
+run verb
+happy adjective
+
+
+lex pos.l
+gcc lex.yy.c -o pos
+./pos
