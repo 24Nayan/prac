@@ -1,0 +1,2 @@
+gcc optimize.c -o optimize
+./optimize
