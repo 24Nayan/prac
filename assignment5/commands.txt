@@ -1,0 +1,4 @@
+tac.c
+gcc tac.c -o tac
+tac
+chmod +x tac
